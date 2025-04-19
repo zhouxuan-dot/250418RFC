@@ -1,6 +1,6 @@
 Scripts for statistics and plotting figures in "Raman Flow Cytometry based single-cell species classification, viable-cell counting and vitality test for probiotic products", published in iMetaOmics 2025.
-Figure2(A\B\C\D\E)-3(A\B\C) # raw data, Rmarkdown scripts and output PDF format results
-figX/figX.R # X is number 2A-2E & 3A-3C, including the reproducable R scripts for each panel in figure
+/Figure2(A\B\C\D\E)-3(A\B\C) # raw data, Rmarkdown scripts and output PDF format results
+/figX/figX.R # X is number 2A-2E & 3A-3C, including the reproducable R scripts for each panel in figure
 
 f you use these scripts, please cite the paper below:
 
